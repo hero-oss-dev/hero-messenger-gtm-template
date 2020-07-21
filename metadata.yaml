@@ -1,0 +1,5 @@
+homepage: "https://www.usehero.com"
+documentation: "https://github.com/usehero/hero-messenger-gtm-template"
+versions:
+  - sha: 20f4353d44d95670cdd488f82f9d0459786b7ceb
+    changeNotes: Initial release.
