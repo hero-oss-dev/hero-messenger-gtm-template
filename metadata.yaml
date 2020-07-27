@@ -1,5 +1,7 @@
 homepage: "https://www.usehero.com"
 documentation: "https://github.com/usehero/hero-messenger-gtm-template"
 versions:
+  - sha: 2e16204fd998f11be21581cdaad8844e6ee05567
+    changeNotes: Update brand name, brand thumbnail and description
   - sha: 20f4353d44d95670cdd488f82f9d0459786b7ceb
     changeNotes: Initial release.
