@@ -1,6 +1,8 @@
 homepage: "https://www.usehero.com"
 documentation: "https://github.com/usehero/hero-messenger-gtm-template"
 versions:
+  - sha: 64f5f1ddf335c46a8a36f2322046748cb3ee8069
+    changeNotes: Agree to community template gallery terms of service
   - sha: 224f75baa903d651fe55af8eb6274382e24a51fa
     changeNotes: Add department allow list and deny list fields
   - sha: 2e16204fd998f11be21581cdaad8844e6ee05567
